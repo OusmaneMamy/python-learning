@@ -1,0 +1,9 @@
+# Python Learning — Jour 3
+
+Mini-projet Python intégrant :
+- Gestion de profil utilisateur
+- Analyse financière
+- Évaluation académique
+- Système bancaire simplifié
+
+Objectif : renforcer la logique, les conditions et les boucles.
