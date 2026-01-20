@@ -1,0 +1,7 @@
+Objectif : Créer un mini-système bancaire en Python permettant :
+- La création d'un profil utilisateur avec validation des données
+- L'affichage clair des informations et du statut financier
+- La gestion des opérations simples : dépôt et retrait
+- La prévention des erreurs grâce à des contrôles et exceptions
+Ce projet sert à pratiquer la logique conditionnelle, la manipulation de dictionnaires,
+les entrées utilisateur et le contrôle de flux avec Python.
