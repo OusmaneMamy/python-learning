@@ -1,0 +1,19 @@
+####### Convertisseur d’unités
+
+Il permet de convertir des unités de mesure entre (pouces et centimètres) à l’aide d’un menu interactif.
+
+###  Objectifs pédagogiques
+- Comprendre l’utilisation des fonctions avec paramètres
+- Manipuler les entrées utilisateur (input)
+- Gérer les erreurs de saisie avec (try / except)
+- Utiliser les boucles pour créer un programme interactif
+- Apprendre la récursivité pour répéter une action tant que l’utilisateur le souhaite
+
+###  Fonctionnalités
+- Conversion de pouces vers (centimètres)
+- Conversion de centimètres vers (pouces)
+- Arrondi des résultats à deux décimales
+- Possibilité de quitter la conversion à tout moment avec (q)
+- Menu simple et clair en ligne de commande
+
+

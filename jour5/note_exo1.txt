@@ -1,0 +1,22 @@
+##########  Python Learning – Gestion de Compte Utilisateur
+
+Il s'agit d'une application en ligne de commande permettant de gérer un
+compte utilisateur de manière simple et structurée.
+
+###  Objectifs 
+- Comprendre la manipulation des dictionnaires
+- Utiliser des fonctions pour structurer un programme
+- Gérer les entrées utilisateur et les erreurs (ValueError)
+- Mettre en place des menus interactifs
+- Séparer la navigation (menu principal) de la logique métier (gestion du compte)
+
+###  Fonctionnalités
+- Création d’un utilisateur (nom, âge, pays, solde)
+- Affichage du profil utilisateur
+- Dépôt d’argent
+- Retrait d’argent avec vérification du solde
+- Menu principal et sous-menu de gestion du compte
+- Vérification de l’état du compte avant toute opération
+
+
+
